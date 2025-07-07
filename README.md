@@ -9,7 +9,7 @@ A simple and responsive **Temperature Converter** that allows users to convert b
 - **Instant Conversion**: Pure JavaScript, no refresh needed.
 - **Modern UI**: Transparent form over a full-screen ocean sky background with stylish fonts.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5**
 - **CSS3**
