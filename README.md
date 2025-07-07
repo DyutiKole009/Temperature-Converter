@@ -1,2 +1,3 @@
-# oibsip_2
-Internship at Oasis Infobyte Task 2
+# Temperature Converter
+
+A Landing Page featuring *Titan Watches* made using CSS and HTML .
